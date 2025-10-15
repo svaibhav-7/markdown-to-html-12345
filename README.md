@@ -1,3 +1,15 @@
-# markdown-to-html-12345
+# Generated App
 
-Generated app for task: markdown-to-html-12345
+This is an automatically generated application.
+
+## Setup
+
+1. Clone this repository
+2. Open `index.html` in a web browser
+
+## Usage
+
+Edit the files to customize your application.
+
+---
+*Generated on 2025-10-15T17:02:07.543023*
