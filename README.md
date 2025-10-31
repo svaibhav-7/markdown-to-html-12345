@@ -10,6 +10,3 @@ This is an automatically generated application.
 ## Usage
 
 Edit the files to customize your application.
-
----
-*Generated on 2025-10-22T03:53:40.908395*
